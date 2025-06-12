@@ -14,6 +14,6 @@
 # Para login como ADM:
 - Usuário: adm
 - Senha: 1
-# E para  cliente:
+# Para login como cliente:
 - Usuário: cliente
 - Senha: 2

@@ -1,6 +1,6 @@
 # Pi---CX-barbearia
 # Título do projeto:
--Barbearia CX
+- Barbearia CX
 # Status do projeto 
 - Finalizado
 # Tecnologias que serão aplicadas:
